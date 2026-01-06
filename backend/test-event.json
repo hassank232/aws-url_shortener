@@ -1,0 +1,8 @@
+{
+    "httpMethod": "POST",
+    "body": "{\"longUrl\":\"https://www.example.com/very/long/url\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "path": "/shorten"
+  }

@@ -1,0 +1,8 @@
+{
+    "httpMethod": "POST",
+    "body": "{}",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "path": "/shorten"
+  }
